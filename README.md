@@ -93,6 +93,7 @@ There are 3 product categories namely: Accessories, Bikes and Clothing. Across 5
 This project contains a one report dashboard and additional visuals that shows the percentage of customers based on gender, the 3 different product categories across all countries and also the revenue generated from the countries.
 
 **Dashboard**
+
 ![](images/dashboard.png)
 
 
@@ -102,10 +103,12 @@ This project contains a one report dashboard and additional visuals that shows t
 
 
 **Product Category by Country**
+
 ![](images/product_category_by_country.png)
 
 
 **Revenue by Country**
+
 ![](images/revenue_by_country.png)
 
 ---
