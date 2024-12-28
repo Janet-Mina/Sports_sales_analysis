@@ -97,11 +97,6 @@ This project contains a one report dashboard and additional visuals that shows t
 ![](images/dashboard.png)
 
 
-**Customers by Gender**
-
-![](images/customers_by_gender.png)
-
-
 **Product Category by Country**
 
 ![](images/product_category_by_country.png)
