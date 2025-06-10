@@ -95,7 +95,7 @@ This project contains a one report dashboard and additional visuals that shows t
 
 **Dashboard**
 
-![](img/db.png)
+![](img/db.PNG)
 
 
 **Product Category by Country**
