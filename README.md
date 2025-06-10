@@ -95,17 +95,16 @@ This project contains a one report dashboard and additional visuals that shows t
 
 **Dashboard**
 
-![](img/db.PNG)
-
+![](..img/db.png)
 
 **Product Category by Country**
 
-![](images/product_category_by_country.png)
+![](..img/prdtcategory.png)
 
 
 **Revenue by Country**
 
-![](images/revenue_by_country.png)
+![](..img/revcountry.png)
 
 ---
 ### Recommendations
